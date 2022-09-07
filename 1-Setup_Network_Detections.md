@@ -1,4 +1,4 @@
-# Setup Network Detections
+# 1 - Setup Network Detections
 
 In this environment, there are two Ubuntu endpoints. One is for the attacker and the other to host the vulnerable applications and provide an environment for detection. This first challenge will involve setting up the network detections and packet capture.
 
@@ -51,6 +51,6 @@ In this environment, there are two Ubuntu endpoints. One is for the attacker and
 
 `sudo docker exec vulnapp2 ls /tmp` 
 
-Suricata is an open-source Intrusion Detection System (IDS) we will be using to detect Log4j exploits inside network traffic. If you are interested in learning more about Suricata, check out: ﻿[](https://app.pluralsight.com/library/courses/suricata-getting-started/table-of-contents)﻿[Network Security Monitoring with Suricata](https://app.pluralsight.com/library/courses/network-security-monitoring-suricata/table-of-contents).
+Suricata is an open-source Intrusion Detection System (IDS) we will be using to detect Log4j exploits inside network traffic. If you are interested in learning more about Suricata, check out: [Network Security Monitoring with Suricata](https://app.pluralsight.com/library/courses/network-security-monitoring-suricata/table-of-contents).
 
 Congratulations! It may not seem like much just yet, but you've setup the infrastructure for detection and tested to ensure the vulnerable application is operating properly. We'll come back here, but for now let's move on to the attacker.
