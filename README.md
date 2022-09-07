@@ -37,7 +37,7 @@ docker pull oofles/vuln-log4j-app
 ## Modules
 The instructions for the various modules are below:
 
-- [1 - Setup Network Detections]
-- [2 - Setup Malicious LDAP Server and POC]
-- [3 - Upgrade to a Reverse Shell]
-- [4 - Analysis and Detection]
+- [1-Setup Network Detections](1-Setup_Network_Detections.md)
+- [2-Setup Malicious LDAP Server and POC]
+- [3-Upgrade to a Reverse Shell]
+- [4-Analysis and Detection]
