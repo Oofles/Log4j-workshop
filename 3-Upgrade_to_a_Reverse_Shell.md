@@ -1,4 +1,4 @@
-### Upgrade to a Reverse Shell
+# 3 - Upgrade to a Reverse Shell
 
 For this challenge you'll be following the same process with one minor modification. You need to setup a listener for the reverse shell connection and change the payload.
 

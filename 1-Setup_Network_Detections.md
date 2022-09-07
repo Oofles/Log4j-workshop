@@ -2,10 +2,6 @@
 
 In this environment, there are two Ubuntu endpoints. One is for the attacker and the other to host the vulnerable applications and provide an environment for detection. This first challenge will involve setting up the network detections and packet capture.
 
-**Important Note**: We are building a custom environment just for you! This may take a few minutes depending on its complexity.
-
--   In the terminal environment, typing `status` will return an overview on applications installing and/or lab files being downloaded. Once this returns **SYSTEM COMPLETE**, your environment will be ready for full exploration! 
-
 1.  Start by connecting to the **Ubuntu Defender Endpoint**
 
 2.  Create a new terminal session for Suricata:

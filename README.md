@@ -1,10 +1,9 @@
-# Log4j-workshop
+# Log4j Vulnerability: Emulation and Detection
 
-Welcome to CircleCityCon and today's training:
-- Log4j Vulnerability: Emulation and Detection
+Welcome to CircleCityCon and today's training!
 
 The entirety of the instructions will be available in this GitHub Repo. To save a copy for reference:
-`git clone https://github.com/Oofles/Log4j-workshop.git`
+- `git clone https://github.com/Oofles/Log4j-workshop.git`
 
 ## Choose Your Own Adventure
 Please choose one of the available options!
@@ -21,8 +20,9 @@ With this option, everything is setup and configured for you! This environment a
 With this option, you bravely choose to set this up on your own laptop!
 
 Prerequisites:
-- Docker 
+- Linux machine or VM is preferred
 - ~4GB of free RAM
+- Docker
 - tcpdump
 - Suricata
 

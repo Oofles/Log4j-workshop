@@ -1,4 +1,4 @@
-### Setup Malicious LDAP Server and POC
+# 2- Setup Malicious LDAP Server and POC
 
 In this challenge, you will be setting up the attacker's infrastructure and sending your first malicious payload to test a Proof of Concept (POC).
 
@@ -41,7 +41,7 @@ In this challenge, you will be setting up the attacker's infrastructure and send
     `CTRL`, `ALT`, and `Shift`
     
 10.  Check the vulnerable application's **/tmp/** directory:
-    
-    `sudo docker exec vulnapp2 ls /tmp`
-    
+
+`sudo docker exec vulnapp2 ls /tmp`
+
 POC is a success!! However, that wasn't much of an exploit... Before getting into analysis, let's see if we can upgrade the exploit in this next challenge and establish a reverse shell.
