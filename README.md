@@ -1,6 +1,6 @@
 # Log4j Vulnerability: Emulation and Detection
 
-Welcome to CircleCityCon and today's training!
+Welcome to this lab guide for the Log4j vulnerability. This workshop was given at CircleCityCon 2022 and referenced at Suricon 2022. Please enjoy!
 
 The entirety of the instructions will be available in this GitHub Repo. To save a copy for reference:
 - `git clone https://github.com/Oofles/Log4j-workshop.git`
@@ -48,3 +48,7 @@ The instructions for the various modules are below:
 - [3-Upgrade to a Reverse Shell](3-Upgrade_to_a_Reverse_Shell.md)
 - [4-Analysis and Detection](4-Analysis_and_Detection.md)
 
+## Suricon
+A shorter presentation was given at Suricon with more of a focus on Suricata. A quick reference including all the commands used can be found here:
+
+- [Suricon - Log4j Analysis](suricon_log4j_analysis.md)
